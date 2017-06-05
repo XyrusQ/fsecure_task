@@ -69,7 +69,7 @@ Output:
 - use math.Pow(b, a) instead of a^b (due to invalid operation: a ^ b (operator ^ not defined on float64))
 
 
-### Spent time
+## Spent time
 Day 1 (31.05) - Education
 - 21:30 - 21:45 (RPN)
 - 21:45 - 23:45 (Django, Rack, Ruby on Rails, REST, RPN in Go, WebServices, API)
