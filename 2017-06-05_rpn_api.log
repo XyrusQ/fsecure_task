@@ -1,0 +1,90 @@
+2017-06-05 20:05:18,572: [INFO] New request!
+2017-06-05 20:05:18,573: [INFO] Received input: {u'input_rpn': u'2\r\n2 3 +\r\n5 6 *'}
+2017-06-05 20:05:18,936: [INFO] Calculating: 2 3 +
+2017-06-05 20:05:18,936: [INFO] Result and time: [5.000000, 0]
+2017-06-05 20:06:15,560: [INFO] New request!
+2017-06-05 20:06:15,560: [INFO] Received input: {u'input_rpn': u'2\r\n2 3 +\r\n5 6 *'}
+2017-06-05 20:06:15,598: [INFO] Calculating: 2 3 +
+2017-06-05 20:06:15,618: [INFO] Result and time: [5.000000, 0]
+2017-06-05 20:06:15,618: [INFO] Calculating: 5 6 *
+2017-06-05 20:13:41,960: [INFO] New request!
+2017-06-05 20:13:41,960: [INFO] Received input: {u'input_rpn': u'2\r\n2 3 +\r\n5 6 *'}
+2017-06-05 20:13:41,962: [INFO] Calculating: 2 3 +
+2017-06-05 20:13:42,048: [INFO] Result and time: [5.000000, -0.086539]
+2017-06-05 20:13:42,049: [INFO] Calculating: 5 6 *
+2017-06-05 20:17:04,492: [INFO] New request!
+2017-06-05 20:17:04,508: [INFO] Received input: {u'input_rpn': u'2\r\n2 3 +\r\n5 6 *'}
+2017-06-05 20:17:04,509: [INFO] Calculating: 2 3 +
+2017-06-05 20:17:04,531: [INFO] Result and time: [5.000000, 0.021912]
+2017-06-05 20:17:04,531: [INFO] Calculating: 5 6 *
+2017-06-05 20:17:04,532: [INFO] Result and time: [30.000000, 0.000074]
+2017-06-05 20:21:45,463: [INFO] New request!
+2017-06-05 20:21:45,476: [INFO] Received input: {u'input_rpn': u'2\r\n2 3 +\r\n5 6 *'}
+2017-06-05 20:21:45,552: [INFO] Calculating: 2 3 +
+2017-06-05 20:21:45,552: [INFO] Result and time: [5.000000, 0.000262]
+2017-06-05 20:21:45,552: [INFO] Calculating: 5 6 *
+2017-06-05 20:21:45,553: [INFO] Result and time: [30.000000, 0.000034]
+2017-06-05 20:35:27,706: [INFO] New request!
+2017-06-05 20:35:27,720: [INFO] Received input: {u'input_rpn': u'2\r\n2 3 +\r\n5 6 *'}
+2017-06-05 20:35:27,794: [INFO] Calculating: 2 3 +
+2017-06-05 20:35:27,797: [INFO] Result and time: [5.000000, 0.002818]
+2017-06-05 20:35:27,797: [INFO] Calculating: 5 6 *
+2017-06-05 20:35:27,797: [INFO] Result and time: [30.000000, 0.000037]
+2017-06-05 20:39:35,723: [INFO] New request!
+2017-06-05 20:39:35,735: [INFO] Received input: {u'input_rpn': u'2\r\n2 3 +\r\n5 6 *'}
+2017-06-05 20:39:35,809: [INFO] Calculating: 2 3 +
+2017-06-05 20:39:35,809: [INFO] Result and time: [5.000000, 0.000163]
+2017-06-05 20:39:35,809: [INFO] Calculating: 5 6 *
+2017-06-05 20:39:35,810: [INFO] Result and time: [30.000000, 0.000033]
+2017-06-05 20:41:19,659: [INFO] New request!
+2017-06-05 20:41:19,659: [INFO] Received input: {u'input_rpn': u'2\r\n2 3 +\r\n5 6 *'}
+2017-06-05 20:41:19,724: [INFO] Calculating: 2 3 +
+2017-06-05 20:41:19,731: [INFO] Result and time: [5.000000, 0.006461]
+2017-06-05 20:41:19,731: [INFO] Calculating: 5 6 *
+2017-06-05 20:41:19,731: [INFO] Result and time: [30.000000, 0.000038]
+2017-06-05 20:56:51,738: [INFO] New request!
+2017-06-05 20:56:51,752: [INFO] Received input: {u'input_rpn': u'2\r\n2 3 +\r\n5 6 *'}
+2017-06-05 20:56:51,851: [INFO] Calculating: 2 3 +
+2017-06-05 20:56:51,851: [INFO] Result and time: [5.000000, 0.000226]
+2017-06-05 20:56:51,851: [INFO] Calculating: 5 6 *
+2017-06-05 20:56:51,851: [INFO] Result and time: [30.000000, 0.000033]
+2017-06-05 21:02:26,111: [INFO] New request!
+2017-06-05 21:02:26,111: [INFO] Received input: {u'input_rpn': u'2\r\n2 3 +\r\n5 6 *'}
+2017-06-05 21:02:26,113: [INFO] Calculating: 2 3 +
+2017-06-05 21:02:26,153: [INFO] Result and time: [5.000000, 0.040362]
+2017-06-05 21:02:26,154: [INFO] Calculating: 5 6 *
+2017-06-05 21:02:26,154: [INFO] Result and time: [30.000000, 0.000080]
+2017-06-05 21:03:35,468: [INFO] New request!
+2017-06-05 21:03:35,469: [INFO] Received input: {u'input_rpn': u'2\r\n2 3 +\r\n5 6 *'}
+2017-06-05 21:03:35,470: [INFO] Calculating: 2 3 +
+2017-06-05 21:03:35,500: [INFO] Result and time: [5.000000, 0.029934]
+2017-06-05 21:03:35,501: [INFO] Calculating: 5 6 *
+2017-06-05 21:03:35,501: [INFO] Result and time: [30.000000, 0.000076]
+2017-06-05 21:06:32,359: [INFO] New request!
+2017-06-05 21:06:32,359: [INFO] Received input: {u'input_rpn': u'2\r\n3 4 +\r\n5 1 2 + 4 * + 3 -'}
+2017-06-05 21:06:32,360: [INFO] Calculating: 3 4 +
+2017-06-05 21:06:32,400: [INFO] Result and time: [7.000000, 0.039309]
+2017-06-05 21:06:32,400: [INFO] Calculating: 5 1 2 + 4 * + 3 -
+2017-06-05 21:06:32,400: [INFO] Result and time: [14.000000, 0.000091]
+2017-06-05 21:08:55,704: [INFO] New request!
+2017-06-05 21:08:55,704: [INFO] Received input: {u'input_rpn': u'2\r\n3 4 +\r\n5 1 2 + 4 * + 3 -'}
+2017-06-05 21:08:55,771: [INFO] Calculating: 3 4 +
+2017-06-05 21:08:55,772: [INFO] Result and time: [7.000000, 0.000832]
+2017-06-05 21:08:55,773: [INFO] Calculating: 5 1 2 + 4 * + 3 -
+2017-06-05 21:08:55,773: [INFO] Result and time: [14.000000, 0.000045]
+2017-06-05 21:12:59,338: [INFO] New request!
+2017-06-05 21:12:59,339: [INFO] Received input: {u'input_rpn': u'2\r\n5 2 /'}
+2017-06-05 21:12:59,340: [INFO] Calculating: 5 2 /
+2017-06-05 21:12:59,361: [INFO] Result and time: [2.000000, 0.021031]
+2017-06-05 22:14:19,952: [INFO] New request!
+2017-06-05 22:14:19,968: [INFO] Received input: {u'input_rpn': u'2\r\n5 2 /\r\n3 4 +'}
+2017-06-05 22:14:20,007: [INFO] Calculating: 5 2 /
+2017-06-05 22:14:20,007: [INFO] Result and time: [2.500000, 0.000182]
+2017-06-05 22:14:20,007: [INFO] Calculating: 3 4 +
+2017-06-05 22:14:20,007: [INFO] Result and time: [7.000000, 0.000038]
+2017-06-05 22:14:46,236: [INFO] New request!
+2017-06-05 22:14:46,236: [INFO] Received input: {u'input_rpn': u'2\r\n3 4 +\r\n5 1 2 + 4 * + 3 -'}
+2017-06-05 22:14:46,238: [INFO] Calculating: 3 4 +
+2017-06-05 22:14:46,343: [INFO] Result and time: [7.000000, 0.105418]
+2017-06-05 22:14:46,344: [INFO] Calculating: 5 1 2 + 4 * + 3 -
+2017-06-05 22:14:46,344: [INFO] Result and time: [14.000000, 0.000081]

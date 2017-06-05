@@ -1,0 +1,24 @@
+2017-06-04 16:07:58,014: [INFO] New request!
+2017-06-04 16:07:58,014: [INFO] Calculate
+2017-06-04 16:08:55,295: [INFO] New request!
+2017-06-04 16:08:55,296: [INFO] Calculate
+2017-06-04 16:12:20,067: [INFO] New request!
+2017-06-04 16:12:20,067: [INFO] Calculate
+2017-06-04 16:14:42,197: [INFO] New request!
+2017-06-04 16:14:42,198: [INFO] Calculate
+2017-06-04 16:17:28,554: [INFO] New request!
+2017-06-04 16:17:28,554: [INFO] Calculate
+2017-06-04 16:18:26,499: [INFO] New request!
+2017-06-04 16:18:26,499: [INFO] Calculate
+2017-06-04 16:20:00,945: [INFO] New request!
+2017-06-04 16:20:00,945: [INFO] Calculate
+2017-06-04 16:20:00,946: [INFO] Received request: {u'input_rpn': u'2\r\n345\r\n678'}
+2017-06-04 16:21:02,258: [INFO] New request!
+2017-06-04 16:21:02,259: [INFO] Calculate
+2017-06-04 16:21:02,383: [INFO] Received request: {u'input_rpn': u'2\r\n345\r\n678'}
+2017-06-04 22:55:37,254: [INFO] New request!
+2017-06-04 22:55:37,267: [INFO] Calculate
+2017-06-04 22:55:37,267: [INFO] Received request: {u'input_rpn': u'2\r\n3 4 +\r\n5 6 *'}
+2017-06-04 22:56:12,671: [INFO] New request!
+2017-06-04 22:56:12,671: [INFO] Calculate
+2017-06-04 22:56:12,672: [INFO] Received request: {u'input_rpn': u'2\r\n3 4 +\r\n5 6 *'}
