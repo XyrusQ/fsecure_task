@@ -1,4 +1,4 @@
-# fsecure_task
+# magic_app
 
 ## How to
 1. Install things from section "Environment"
